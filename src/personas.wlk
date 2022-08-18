@@ -12,6 +12,8 @@ object olivia {
 	method gradoDeConcentracion() {
 		return gradoDeConcentracion
 	}
+	
+	method banioDeVapor() {}
 }
 
 object bruno {
